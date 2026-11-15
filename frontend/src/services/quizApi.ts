@@ -1,5 +1,5 @@
     
-import type { QuizSummary } from '../types/quiz-summery';
+import type { QuizSummary } from '../types/quiz-summary ';
 import type { Quiz } from '../types/quiz.type';
 import type { CreateQuizPayload } from '../types/payload/create-quiz-payload';
 import { request } from './http';
